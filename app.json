@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Nexus Control",
+    "slug": "nexus-control",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.chad.nexuscontrol"
+    },
+    "web": { "bundler": "metro" }
+  }
+}
